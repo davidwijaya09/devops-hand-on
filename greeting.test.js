@@ -1,4 +1,4 @@
-const { greet } = require('./greeting');
+const { greet } = require('./greetings');
 
 describe('greet', () => {
   test('greets by name', () => {
