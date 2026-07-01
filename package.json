@@ -1,0 +1,14 @@
+{
+  "name": "devops-lab",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest --verbose",
+    "test:coverage": "jest --coverage",
+    "build": "echo 'Build complete'",
+    "lint": "echo 'Lint passed'"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
